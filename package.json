@@ -1,0 +1,27 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "node.js soup to bits pub sub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaycool/image_streaming_app_pubsub.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshaycool/image_streaming_app_pubsub/issues"
+  },
+  "homepage": "https://github.com/akshaycool/image_streaming_app_pubsub#readme",
+  "dependencies": {
+    "axon": "^2.0.2",
+    "body-parser": "^1.15.2",
+    "express": "^3.5.1",
+    "merge-descriptors": "^1.0.1",
+    "redis": "^2.6.3",
+    "underscore": "^1.8.3"
+  }
+}
